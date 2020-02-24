@@ -1,16 +1,8 @@
-TZ #1 (react-hooks & TypeScript)
-===
+Example of using Typescript with React Hooks
 
-Стартовый репозиторий для прохождения туториала.
-
-Больше туториалов - [maxpfrontend.ru](https://maxpfrontend.ru/)
-
----
-
-Расписания вебинаров и прочая полезная информация:
-+ [Расписание на сайте](https://maxpfrontend.ru/raspisanie/)
-+ [VK](http://vk.com/maxpfrontend)
-+ [Telegram](https://t.me/maxpfrontend)
-+ [YouTube](https://www.youtube.com/channel/UCqJyAVWwIqPWKEkfCSP1y4Q)
-+ [Twitch](https://www.twitch.tv/maxpfrontend)
-+ [Twitter](https://twitter.com/MaxPatsiansky)
+To install:
+1. Clone this repository 
+2. Go to command line
+3. Write cd {your path}/React-Hooks...
+4. npm install // to install all package
+5. npm run start
